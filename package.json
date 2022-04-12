@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-demo-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tn-dev": "ts-node-dev index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.22"
+  }
+}
